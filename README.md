@@ -1,5 +1,5 @@
 # 💫 About Me:
-HELLO! my name is Hesam,<br>I'm currently Learning Front End developing,<br>Until now I've learned HTML & CSS & Java script & React<br>And I have plans to Learn next.js and Typescript after that.
+HELLO! my name is Hesam
 
 
 ## 🌐 Socials:
